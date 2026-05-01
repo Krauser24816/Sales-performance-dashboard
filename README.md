@@ -149,7 +149,7 @@ Basic dashboard-ready cleaning was performed before visualization:
 
 This dashboard page summarizes overall sales and profit performance. It includes KPI-style cards for total sales and total profit, a category-level sales comparison, and a profit treemap by category.
 
-<img src="./Screenshots/Sales%20and%20Profit%20Performance.png" width="900">
+<img src="./screenshots/Sales%20and%20Profit%20Performance.png" width="900">
 
 ---
 
@@ -157,7 +157,7 @@ This dashboard page summarizes overall sales and profit performance. It includes
 
 This page analyzes how discounts affect sales and profitability. It compares profit and sales with and without discount and highlights sub-categories where discounting leads to reduced or negative profit.
 
-<img src="./Screenshots/Discount%20Impact.png" width="900">
+<img src="./screenshots/Discount%20Impact.png" width="900">
 
 ---
 
@@ -165,7 +165,7 @@ This page analyzes how discounts affect sales and profitability. It compares pro
 
 This dashboard explores sales performance across markets, regions, states, and cities. It includes market-level sales, regional sales/profit comparison, and a map visualization for geographic distribution.
 
-<img src="./Screenshots/Geographic%20Performance.png" width="900">
+<img src="./screenshots/Geographic%20Performance.png" width="900">
 
 ---
 
@@ -173,7 +173,7 @@ This dashboard explores sales performance across markets, regions, states, and c
 
 This page compares sales and profit performance across different markets. It also breaks down profit by market and category to identify strong and weak market-category combinations.
 
-<img src="./Screenshots/Market-level%20Comparison.png" width="900">
+<img src="./screenshots/Market-level%20Comparison.png" width="900">
 
 ---
 
@@ -181,7 +181,7 @@ This page compares sales and profit performance across different markets. It als
 
 This dashboard focuses on customer behavior. It shows sales contribution by customer segment, top customers by sales, and category preference across segments.
 
-<img src="./Screenshots/Customer%20Insights.png" width="900">
+<img src="./screenshots/Customer%20Insights.png" width="900">
 
 ---
 
@@ -189,7 +189,7 @@ This dashboard focuses on customer behavior. It shows sales contribution by cust
 
 This page identifies top-selling products, compares sales and profit by sub-category, and shows the distribution of quantity sold across main product categories.
 
-<img src="./Screenshots/Product%20Performance.png" width="900">
+<img src="./screenshots/Product%20Performance.png" width="900">
 
 ---
 
@@ -197,7 +197,7 @@ This page identifies top-selling products, compares sales and profit by sub-cate
 
 This dashboard analyzes sales and profit trends over time using yearly and monthly views. It helps identify sales growth patterns and peak months.
 
-<img src="./Screenshots/Time-based%20Trends.png" width="900">
+<img src="./screenshots/Time-based%20Trends.png" width="900">
 
 ---
 
@@ -205,7 +205,7 @@ This dashboard analyzes sales and profit trends over time using yearly and month
 
 This page evaluates shipping mode usage and shipping cost distribution by ship mode, region, and market.
 
-<img src="./Screenshots/Shipping%20and%20Operational%20Efficiency.png" width="900">
+<img src="./screenshots/Shipping%20and%20Operational%20Efficiency.png" width="900">
 
 ---
 
@@ -213,7 +213,7 @@ This page evaluates shipping mode usage and shipping cost distribution by ship m
 
 This dashboard studies order patterns using average quantity, sales by order priority and shipping mode, and a scatter plot to identify orders with high quantity but low profit.
 
-<img src="./Screenshots/Order%20Behaviour.png" width="900">
+<img src="./screenshots/Order%20Behaviour.png" width="900">
 
 ---
 
@@ -221,7 +221,7 @@ This dashboard studies order patterns using average quantity, sales by order pri
 
 This page highlights low-profit sub-categories and problematic orders. It includes analysis of high discount with low profit and high sales with low profit.
 
-<img src="./Screenshots/Risk%20and%20Problem%20Areas.png" width="900">
+<img src="./screenshots/Risk%20and%20Problem%20Areas.png" width="900">
 
 ---
 
@@ -229,7 +229,7 @@ This page highlights low-profit sub-categories and problematic orders. It includ
 
 This interactive page allows users to filter sales by region, category, segment, and year. The result card updates dynamically based on selected filters.
 
-<img src="./Screenshots/Sales%20Filtering.png" width="900">
+<img src="./screenshots/Sales%20Filtering.png" width="900">
 
 ---
 
